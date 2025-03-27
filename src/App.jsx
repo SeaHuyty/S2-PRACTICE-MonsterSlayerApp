@@ -6,6 +6,7 @@ function App() {
     <div>
       <Header gameName="Monster Slayer" />
       <Game />
+      
     </div>
   );
 }
